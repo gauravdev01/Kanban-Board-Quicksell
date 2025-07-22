@@ -12,7 +12,7 @@ This is a Kanban board application built using React JS that interacts with the 
 
 ## Demo
 
-You can see a live demo of the Kanban board application [here](https://main.d2nq9mz8ggbsl4.amplifyapp.com).
+You can see a live demo of the Kanban board application [here](https://kanban-board-quicksell-wheat.vercel.app/).
 
 ## Installation
 
