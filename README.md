@@ -20,7 +20,7 @@ To run the Kanban board application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sagarchauhan015/kanban-board.git
+   git clone https://github.com/gauravdev01/Kanban-Board-Quicksell.git
    ```
 
 2. Navigate to the project directory:
